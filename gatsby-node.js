@@ -120,9 +120,9 @@ exports.createSchemaCustomization = ({ actions }) => {
 }
 
 exports.onPostBuild = function() {
-  fs.renameSync(path.join(__dirname, 'public'), path.join(__dirname, 'public/blog'));
+  fs.renameSync(path.join(__dirname, 'public'), path.join(__dirname, 'public-blog'));
 
   fs.mkdirSync(path.join(__dirname, 'public'));
 
-  fs.renameSync(path.join(__dirname, 'public/blog'), path.join(__dirname, 'public', 'blog'));
+  fs.renameSync(path.join(__dirname, 'public-blog'), path.join(__dirname, 'public', 'blog'));
 };
