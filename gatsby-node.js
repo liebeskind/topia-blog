@@ -1,15 +1,16 @@
 const path = require(`path`)
+const fs = require("fs")
 const { createFilePath } = require(`gatsby-source-filesystem`)
 
 exports.createPages = async ({ graphql, actions, reporter }) => {
-  const { createPage, createRedirect } = actions
+  const { createPage } = actions
 
   // Define a template for blog post
   const blogPost = path.resolve(`./src/templates/blog-post.js`)
 
   // https://docs.netlify.com/routing/redirects/#syntax-for-the-netlify-configuration-file
   // https://github.com/dhakerShiv/gatsby-plugin-client-side-redirect
-  createRedirect({ fromPath: '/', toPath: '/blog', isPermanent: true });
+  // createRedirect({ fromPath: '/', toPath: '/blog', isPermanent: true });
 
   // Get all markdown blog posts sorted by date
   const result = await graphql(
@@ -117,3 +118,11 @@ exports.createSchemaCustomization = ({ actions }) => {
     }
   `)
 }
+
+exports.onPostBuild = function() {
+  fs.renameSync(path.join(__dirname, 'public'), path.join(__dirname, 'public/blog'));
+
+  fs.mkdirSync(path.join(__dirname, 'public'));
+
+  fs.renameSync(path.join(__dirname, 'public/blog'), path.join(__dirname, 'public', 'blog'));
+};
