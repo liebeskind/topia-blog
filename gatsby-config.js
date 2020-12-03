@@ -62,7 +62,7 @@ module.exports = {
       options: {
         name: `Topia Blog`,
         short_name: `Topia`,
-        start_url: `/`,
+        start_url: `/blog`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
