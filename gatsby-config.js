@@ -1,5 +1,5 @@
 module.exports = {
-  assetPrefix: `https://cdn.example.com`,
+  assetPrefix: `blog/`,
   siteMetadata: {
     title: `Topia Blog`,
     author: {
