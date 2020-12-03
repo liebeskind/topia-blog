@@ -15,7 +15,7 @@ module.exports = {
     plugins: [{
             resolve: `gatsby-plugin-canonical-urls`,
             options: {
-                siteUrl: `https://topia.io`,
+                siteUrl: `https://topia.io/blog`,
             }
         },
         {
