@@ -6,6 +6,9 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
 
   // Define a template for blog post
   const blogPost = path.resolve(`./src/templates/blog-post.js`)
+
+  // https://docs.netlify.com/routing/redirects/#syntax-for-the-netlify-configuration-file
+  // https://github.com/dhakerShiv/gatsby-plugin-client-side-redirect
   createRedirect({ fromPath: '/', toPath: '/blog', isPermanent: true });
 
   // Get all markdown blog posts sorted by date
