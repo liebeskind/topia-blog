@@ -25,7 +25,9 @@ const Layout = ({ location, title, children }) => {
       <header className="global-header">{header}</header>
       <main>{children}</main>
       <footer>
-        <div></div>
+        © {new Date().getFullYear()}, Built with love by
+        {` `}
+        <a href="https://topia.io">Topia</a>
       </footer>
     </div>
   )
