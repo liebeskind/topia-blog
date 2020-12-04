@@ -12,11 +12,7 @@ Like many people around the world, we looked to online tools to connect with oth
 We knew there had to be a better way to bring people together online. And, with our team’s deep expertise in gaming, distributed systems, immersive technologies, and webRTC we decided to build it.
 
 ### Our Mission
-* Help people build more meaningful relationships
-* Empower people to connect in a more human way
-* Empower people to connect and deepen their **relationships** by **humanizing** online interactions.
-* Bring people together to create new memories and build more meaningful relationships.
-* Bring people together and give them the power to connect and deepen their relationships.
+Provide everyone with customizable spaces to bring people together for human interactions and unique experiences that build meaningful relationships.
 
 We are a deeply social species. While it is easier than ever to stay in touch, existing tools don’t help facilitate the authentic connection that we crave<sup>1</sup>. In a 2D context (email, text, facebook) we miss out on the **nuances of human communication**. We lose cues from **body language, tone of voice, or context**. Video chat, alone, gets us one step closer but it lacks the spatial context....
 
