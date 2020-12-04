@@ -14,12 +14,15 @@ We knew there had to be a better way to bring people together online. And, with 
 ### Our Mission
 Provide everyone with customizable spaces to bring people together for human interactions and unique experiences that build meaningful relationships.
 
+### Why
 We are a deeply social species. While it is easier than ever to stay in touch, existing tools don’t help facilitate the authentic connection that we crave<sup>1</sup>. In a 2D context (email, text, facebook) we miss out on the **nuances of human communication**. We lose cues from **body language, tone of voice, or context**. Video chat, alone, gets us one step closer but it lacks the spatial context....
 
+### How
 Topia combines the simplicity of walking around with the serendipity of creating new friendships. We give users the agency to move around the world so they can seamlessly walk in and out of conversations - just like in person. We empower world owners to create a unique world for their guests by adding assets from our library, uploading their own art or creating experiences with embedded games or adding audio & video, clicking links, or portals between worlds.
 
 We hosted our first public event in May 2020. The event culminated in a memorial ceremony and temple burn (as part of Remote Burn). For many, it was the first time since the beginning of the pandemic that they were able to connect with others in an authentic way. 
 
+### Join Us
 Topia is a more human video chat in a fully customizable world. Try it out for free today at [Topia.io](https://topia.io).
 
 <sup>1</sup> Research shows that real (as opposed to casual) relationships require at least occasional face-to-face interactions - it turns out, seeing the whites of someone's eyes is important. Dunbar, “Do online social media cut through the constraints that limit the size of offline social networks” https://royalsocietypublishing.org/doi/full/10.1098/rsos.150292
