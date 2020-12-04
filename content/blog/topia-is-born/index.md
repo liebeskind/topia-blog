@@ -4,11 +4,26 @@ date: "2020-07-14T22:40:32.169Z"
 description: We realized that we could build an oasis of human connection that would be an alternative to video software that was built for business meetings. It would be accessible by anyone with a web browser and webcam and we decided to call it Topia.
 ---
 
-## Quarantine
-In this time of quarantine, we wondered if we might use emergent technologies to bring people together to share authentic human connection and experiences with one another.  Our team has been experimenting with these technologies and contemplating building an immersive experience platform for many years.  We quickly realized that we could build an oasis of human connection that would be an alternative to video software that was built for business meetings. It would be accessible by anyone with a web browser and webcam and we decided to call it Topia.
+## Origin Story
+Topia started because we wanted an easy way to connect face-to-face with people around the world in a way that is fun (doesn’t feel like work) and feels natural.
 
-## World Builders
-We also wanted to manifest a toolset where anyone could become a world builder and create unique spaces that encourage people to explore, dance, laugh and cry.  We wanted to bring the beauty and interactivity of the real world into Topia by making it easy to create experience plugins like art, games, embedded audio & video, clickable links, and portals between worlds. And we wanted event producers and community managers to have everything they needed to plan, host and communicate with their participants.
+Like many people around the world, we looked to online tools to connect with others at the beginning of the pandemic. We turned to traditional video conferencing to connect with our communities but it left us wanting more. We quickly grew tired of zoom fatigue, feeling trapped on calls where only the loudest person talks, and using business technology to socialize.
+ 
+We knew there had to be a better way to bring people together online. And, with our team’s deep expertise in gaming, distributed systems, immersive technologies, and webRTC we decided to build it.
 
-## Our First Event
-We began building Topia in May and we had our first event a few weeks after the first line of code was written.  The positive response from attendees at our first two events was remarkable and provided us with the validation we needed to go all-in.
+### Our Mission
+* Help people build more meaningful relationships
+* Empower people to connect in a more human way
+* Empower people to connect and deepen their **relationships** by **humanizing** online interactions.
+* Bring people together to create new memories and build more meaningful relationships.
+* Bring people together and give them the power to connect and deepen their relationships.
+
+We are a deeply social species. While it is easier than ever to stay in touch, existing tools don’t help facilitate the authentic connection that we crave<sup>1</sup>. In a 2D context (email, text, facebook) we miss out on the **nuances of human communication**. We lose cues from **body language, tone of voice, or context**. Video chat, alone, gets us one step closer but it lacks the spatial context....
+
+Topia combines the simplicity of walking around with the serendipity of creating new friendships. We give users the agency to move around the world so they can seamlessly walk in and out of conversations - just like in person. We empower world owners to create a unique world for their guests by adding assets from our library, uploading their own art or creating experiences with embedded games or adding audio & video, clicking links, or portals between worlds.
+
+We hosted our first public event in May 2020. The event culminated in a memorial ceremony and temple burn (as part of Remote Burn). For many, it was the first time since the beginning of the pandemic that they were able to connect with others in an authentic way. 
+
+Topia is a more human video chat in a fully customizable world. Try it out for free today at [Topia.io](https://topia.io).
+
+<sup>1</sup> Research shows that real (as opposed to casual) relationships require at least occasional face-to-face interactions - it turns out, seeing the whites of someone's eyes is important. Dunbar, “Do online social media cut through the constraints that limit the size of offline social networks” https://royalsocietypublishing.org/doi/full/10.1098/rsos.150292
