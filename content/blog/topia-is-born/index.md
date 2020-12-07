@@ -11,10 +11,9 @@ Like many people around the world, we looked to online tools to connect with oth
  
 We knew there had to be a better way to bring people together online. And, with our team’s deep expertise in gaming, distributed systems, immersive technologies, and webRTC we decided to build it.
 
-### Our Mission
-Provide everyone with customizable spaces to bring people together for human interactions and unique experiences that build meaningful relationships.
-
 ### Why
+At Topia, we provide customizable spaces to bring people together for human interactions and unique experiences that build meaningful relationships.
+
 We are a deeply social species. While it is easier than ever to stay in touch, existing tools don’t help facilitate the authentic connection that we crave<sup>1</sup>. In a 2D context (email, text, facebook) we miss out on the **nuances of human communication**. We lose cues from **body language, tone of voice, or context**. Video chat, alone, gets us one step closer but it lacks the spatial context....
 
 ### How
