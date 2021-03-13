@@ -1,22 +1,31 @@
 ---
 title: We Co-Hosted Burning Man
 date: "2020-09-12T22:40:32.169Z"
-description: In April, the Burning Man Org made the disappointing announcement that Burning Man 2020 was cancelled. We were selected in July to be one of 8 recognized universes of the Burning Man Multiverse and called our burn experience Build-A-Burn.
+description: In April 2020, the Burning Man Organization made an official announcement that Burning Man, the annual pilgramage of ~80,000 to build a temporary city in the desert, was cancelled. A few weeks later, the Burning Man Organization made an announcement that they were exploring a digital version of the event. In July, we were selected as one of 8 official universes of Burning Man 2020: The Multiverse. Each universe had a unique name and our experience was known as Build-A-Burn.
 
 ---
 
 ## Burning Man Cancelled
-Back in April 2020, just as the global pandemic was ramping up and uncertainty overtook normal life, large events that bring people together started being cancelled.  Included in these events was the annual Burning Man pilgrimage, where ~80,000 people come together at the end of August to co-create a city in the middle of the desert and leave their normal life behind for a week of exploration and participation. We knew that the Burning Man organization was considering having an online event and we showed them a demo in June.  We were selected in July to be one of 8 recognized universes of the Burning Man Multiverse and called our burn experience Build-A-Burn.
+In April 2020, as the global pandemic devasted millions around the world, many large events and festivals scheduled for later in the year made the difficult decision to postpone or cancel. Included in these announcements was one from the Burning Man Organization cancelling Burning Man 2020, the annual pilgrimage of ~80,000 people to build a temporary city in Black Rock Desert.
+
+A few weeks later, the Burning Man Organization announced their intention to host an online version of the event. In July, Topia was selected as one of eight official universes of Burning Man 2020: The Multiverse. Each univeerse had a unique name and the expeeriences ranged from fully immersive virtual reality experiences to more accessible and video chat focused, like Topia. 
+
+In observance of decommodification (one of the 10 Burning Man principles), we called our experience 'Build-A-Burn' - we thought the name would encourage mor eparticipation and convey just how easy it is to create a world in Topia.
 
 
 ## Burning Man and Build-A-Burn
-The ramp up to Build-A-Burn was a frenzy of development.  We scrambled to pack in last-minute world building features, an event system, and improved UI, and onboarding.  At the same time, our Discord community was blowing up and builders were highly engaged and giving us feedback on how to improve the platform. Camp builders started trickling in and word of mouth quickly resulted in a torrent of camps being created and set up.  By the start of Burning Man, we had over 100 camps created and we had placed ~30 on the playa.  That’s when the real craziness started.
+From the time we were recognized as an official universe until the start of the event, we were in a frenzy of development -- scrambling to pack in last-minute features that we knew would improve the experience for participating camps (world creation enhancements, event system, improved UI, and onboarding). We created a discord community and were blown away with all of the community engagement - Burners sharing tips, art, events, and more!
+
+With Build-A-Burn, camps could create their own world and be placed on the larger Burning Man map, with links (portal) to their camp. The larger Burning Man map was designeed to visually resemble "Black Rock City". People could wander around this virtual version of Black Rock City and find portals to other worlds. 
+
+By the beginning of the week-long event, more than 100 camps were created as part of the burn experience, with more than 30 of those camps officially placed on our main map. And, that was just the beginning...
+
 
 ![Build-a-Burn](./topia-burn.png)
 
-Once people started coming to Build-A-Burn, the response and feedback really blew us away.  People were shocked at how the experience so closely resembled that of being at Burning Man itself.  Our biggest surprise was the amount of effort camps spent building their worlds and by the middle of the week our number of unique and truly epic camps we placed on the playa doubled to 60+, all interconnected through our portal system.  Our numbers hockey-sticked and we wound up with 16k+ unique visitors over the week, thousands of conversations, an additional ~500 camps created, and tons of fun events hosted by camps including live DJ sets, comedians, singers, and even ‘non-awkward speed dating’.
+Just like the in person Burning Man experience, our virtual version of Black Rock City continued to grow and evolve throughout the week. New camps were built, existing camps evolved, and the daily ‘population’ grew. By mid-week an additional ~500 camps were created and the number of placed camps doubled to more than 60 camps. We loved watching everyone flex their creativity in designing their spaces and planning events, including live DJ performances, comedy-shows, vocal performances, and even ‘non-awkward speed dating’.
 
-These are a few examples of the many amazing camps created by the community for Build-A-Burn:
+Take a peek inside some of the camps that the community created:
 
 ![Celestial Bodies](./topia-celestial-bodies.png)
 Celestial Bodies
@@ -30,13 +39,30 @@ Teahouse
 ![Inflatable Wildlife Inflataverse](./topia-inflatable-wildlife.png)
 Inflatable Wildlife Inflataverse
 
-On Saturday, as the playa became a nebula and a crowd gathered around the statue of the man, a particle fire erupted at its base and the crowd cheered.  The man burn lasted ~40 minutes and the emotions shared by the assembled group felt shockingly similar to how it felt to be at the burn.  Once the burn had finished, people scattered into groups going every which way.  There was a dance party in Ashram Galactica, a DJ at Art Island, groups of people wandering the playa and an ‘after-party’ at Sock Drawer (a hidden portal embedded in a sock deep-playa).
+On Saturday night, as the ‘sun set’ on the virtual playa, burners began to gather around the statue of "The Man" in anticipation for the burn. A particle fire erupted at the base of the statue and the crowd cheered. Hundreds gathered to experience the our burn, which lasted about 40 minutes. The shared experience of impermanence and the emotions felt by the groups that gathered were surprisingly similar to the feeling of watching the burn in person.
+
+After the burn, if you explored the playa you may have stumbled upon a dance party at Ashram Galactica, a DJ performance at Art Island, groups of people wandering the playa, or an ‘after-party’ at Sock Drawer (a hidden portal embedded in a sock deep-playa).
+
 
 ![The Man Burn](./topia-the-burn.png)
 
-Build-A-Burn was the first burning man experience that was available to anyone, anywhere in the world.  We had participants from all over the globe - both veteran burners and people who had always wanted to go to Burning Man but found it inaccessible.  For many, this was the first time they experienced the ethos, serendipity, play, and human connection that is Burning Man.
+This year may not have been the burn that many of us wanted, but perhaps it was the burn that the world needed? For the first time ever, Burning Man was available and accessible to anyone, anywhere in the world. We  met people from around the globe -- verteran and virgin burners alike.
 
-## The Future
-We're leaving [topia.io/burn](https://topia.io/burn) open as a burning man community space.  We highly recommend you come check it out with some friends and visit the different camps to see all the crazy stuff that got built.  There likely won't be 40+ person speed dating event going on, but you can explore the community built worlds and may run into fellow burners.  There are upcoming events being hosted by Build-A-Burn camps and, unlike the real-life city built in the desert, this online burn never needs to end.
+For many, this was the first time they experienced the ethos, serendipity, play, and human connection that makes Burning Man so special to so many.
 
-Build-A-Burn validated for us that people are looking for authentic human connection and collaborative experiences during quarantine.  Curiosity brought people to Topia for the first time, but the ability to authentically connect with other humans kept them coming back over and over again.  They wandered around in small groups, explored camps together, made new friends and even went on dates.  It was pretty magical to see people's faces light up when they first realized what Topia was - a place where they could hang out with other burners and actually feel, even if just for a few hours, like they were at Burning Man. I hope the real burn happens next year so that I can meet some of my new friends in person.  In the meantime, we’ll have Topia.
+Here’s what people thought:
+
+"I wasn't on board with this initially...I felt like it would be more like just being at work, a chore.  But it didn't, I had fun and had moments that I would have had just like I had at the burn.  You believed in this platform and brought us all here and I feel we are all better for it." - mikewoot’s camp leader
+
+I will be talking about how I sat around a virtual fire watching a virtual man burn with about 70 other strangers and had a powerful emotional connection and moment for the rest of my life. Burning Man is about new experiences and connections, and i'd say i've gotten just that this year.” - Socks
+
+
+## What's Next?
+Unconstrained by the realities of the in-person event, Build-A-Burn can exist indefinitely. We hope that the community will continue to use [topia.io/burn](https://topia.io/burn) as a gathering space. Visit Build-A-Burn to connect with others, host an event at your Build-a-Burn camp, or bring some friends to explore all of the amazing things that were built.
+
+It was really magical to see people's faces light up when they first realized what Topia was - a place where they could hang out with other burners and actually feel, even if just for a few hours, like they were at Burning Man. Curiosity brought people to "Build-A-Burn" for the first time, but the ability to authentically connect with others kept them coming back over and over again.  
+
+I hope that Burning Man will happen next year in Black Rock City so that I can meet some of my new friends in person. In the meantime, we have Topia.
+
+
+
