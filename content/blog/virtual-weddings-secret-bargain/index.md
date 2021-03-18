@@ -1,5 +1,5 @@
 ---
-title: Virtual Weddings: The Secret Bargain of the Century
+title: Virtual Weddings - The Secret Bargain of the Century
 date: "2020-10-14T12:40:32.169Z"
 description: In the midst of the pandemic, many couples are opting for a virtual wedding or minimony. Compared to a traditional wedding, choosing wedding live streaming will conservatively save you $28,300.
 
