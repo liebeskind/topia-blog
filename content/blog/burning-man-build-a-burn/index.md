@@ -1,7 +1,7 @@
 ---
 title: We Co-Hosted Burning Man
 date: "2020-09-12T22:40:32.169Z"
-description: In April 2020, the Burning Man Organization made an official announcement that Burning Man, the annual pilgramage of ~80,000 to build a temporary city in the desert, was cancelled. A few weeks later, the Burning Man Organization made an announcement that they were exploring a digital version of the event. In July, we were selected as one of 8 official universes of Burning Man 2020: The Multiverse. Each universe had a unique name and our experience was known as Build-A-Burn.
+description: In April 2020, the Burning Man Organization made an official announcement that Burning Man, the annual pilgramage of ~80,000 to build a temporary city in the desert, was cancelled. A few weeks later, the Burning Man Organization made an announcement that they were exploring a digital version of the event. In July, we were selected as one of 8 official universes of Burning Man 2020 - The Multiverse. Each universe had a unique name and our experience was known as Build-A-Burn.
 
 ---
 
