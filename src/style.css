@@ -27,8 +27,8 @@
   --spacing-20: 5rem;
   --spacing-24: 6rem;
   --spacing-32: 8rem;
-  --fontFamily-sans: Montserrat, system-ui, -apple-system, BlinkMacSystemFont,
-    "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif,
+  --fontFamily-sans: Roboto, system-ui, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", "Helvetica Neue", Arial, "Noto Sans", sans-serif,
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --fontFamily-serif: "Merriweather", "Georgia", Cambria, "Times New Roman",
     Times, serif;
@@ -55,11 +55,11 @@
   --fontSize-6: 2.488rem;
   --fontSize-7: 2.986rem;
   --color-primary: #63c3cb;
-  --color-text: #4B4B4B;
+  --color-text: #212936;
   --color-text-light: #2b3648;
-  --color-heading: #4c9690;
+  --color-heading: #63C3BC;
   --color-heading-black: #212936;
-  --color-accent: #7a8eeb;
+  --color-accent: #3B5BE3;
 }
 
 /* HTML elements */
